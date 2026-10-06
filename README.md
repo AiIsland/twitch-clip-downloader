@@ -1,7 +1,11 @@
-# AI Island
+# twitch clip downloader
 
-It’s an open source database that’s you can use to build your own projects (for educational purposes only),it has a large number of projects and datasets.
+bulk downloads twitch clips, vods and highlight videos.
 
-http://aiisland.byethost13.com/
+## usage
 
-                                                                        Created By: Y.ALJAOUI & A.EL-WASMI
+- grab the exe from releases
+- paste clip or channel url
+- pick how many you want
+
+i used it to archive my friends fails before he deleted them
